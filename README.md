@@ -28,11 +28,11 @@ Get the latest release from **[GitHub Releases](https://github.com/umindhub/Mind
 - **Multi-level nesting** — Structure work across unlimited hierarchy levels; collapse any branch with one keystroke.
 - **Spotlight batch editing** — Select multiple items and update status, tags, or due date in one shot.
 - **Keyboard-driven** — Every action has a shortcut. Create, move, indent, complete without leaving the keyboard.
-- **Local storage** — Works offline, launches instantly, no network required (only login and creating a Project require it).
+- **Local storage** — Works offline, launches instantly, no network required (only login and creating a Project require it). Unlimited local projects, files and items.
 - **200-step undo / redo** — Persisted to disk, per file. Works across app restarts.
 - **Trash with 30-day retention** — Recoverable before permanent deletion.
 - **18 handcrafted themes** — Nine warm lights, nine deep darks.
-- **Cloud sync** — Sync your data across all your devices. Pick up where you left off, anywhere, anytime.
+- **Cloud sync** — Sync your data across all your devices. Pick up where you left off, anywhere, anytime. Free for public projects; private projects require Pro.
 
 ## Requirements
 
@@ -41,9 +41,9 @@ Get the latest release from **[GitHub Releases](https://github.com/umindhub/Mind
 
 ## Pricing
 
-Projects, files and items are unlimited for everyone. Public projects sync for free; syncing inside private projects requires Pro.
+Local projects, files and items are unlimited for everyone. Cloud sync is free for public projects; cloud sync inside private projects requires Pro.
 
-| Plan | Price | Projects / Files / Items | Public project sync | Private project sync |
+| Plan | Price | Projects / Files / Items (Local) | Public project sync (Cloud) | Private project sync (Cloud) |
 |---|---|---|---|---|
 | Free | $0 | Unlimited | ✓ | — |
 | Pro | $2.99 / month | Unlimited | ✓ | ✓ |

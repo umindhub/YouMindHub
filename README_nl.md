@@ -28,11 +28,11 @@ Download de nieuwste versie van **[GitHub Releases](https://github.com/umindhub/
 - **Meerniveaus nesting** — Structureer werk over onbeperkte hiërarchieniveaus; vouw elke tak samen met één toetsaanslag.
 - **Spotlight bulkbewerking** — Selecteer meerdere items en update status, tags of vervaldatum in één keer.
 - **Toetsenbordgestuurd** — Elke actie heeft een sneltoets. Maak aan, verplaats, laat inspringen en voltooi zonder het toetsenbord te verlaten.
-- **Lokale opslag** — Werkt offline, start direct op, geen netwerk vereist (alleen inloggen en een Project aanmaken vereisen het).
+- **Lokale opslag** — Werkt offline, start direct op, geen netwerk vereist (alleen inloggen en een Project aanmaken vereisen het). Onbeperkt lokale projecten, bestanden en items.
 - **200-staps ongedaan maken/opnieuw doen** — Bewaard op schijf, per bestand. Werkt ook na het opnieuw starten van de app.
 - **Prullenbak met 30 dagen bewaring** — Herstelbaar vóór definitieve verwijdering.
 - **18 handgemaakte thema's** — Negen warme lichte, negen diepe donkere.
-- **Cloud-synchronisatie** — Synchroniseer je gegevens op al je apparaten. Ga verder waar je gebleven was, waar en wanneer je maar wilt.
+- **Cloud-synchronisatie** — Synchroniseer je gegevens op al je apparaten. Ga verder waar je gebleven was, waar en wanneer je maar wilt. Gratis voor openbare projecten; privéprojecten vereisen Pro.
 
 ## Vereisten
 
@@ -41,9 +41,9 @@ Download de nieuwste versie van **[GitHub Releases](https://github.com/umindhub/
 
 ## Prijzen
 
-Projecten, bestanden en items zijn voor iedereen onbeperkt. Openbare projecten synchroniseren gratis; synchronisatie binnen privéprojecten vereist Pro.
+Lokale projecten, bestanden en items zijn voor iedereen onbeperkt. Cloud-synchronisatie is gratis voor openbare projecten; cloud-synchronisatie binnen privéprojecten vereist Pro.
 
-| Plan | Prijs | Projecten / Bestanden / Items | Sync openbare projecten | Sync privéprojecten |
+| Plan | Prijs | Projecten / Bestanden / Items (lokaal) | Sync openbare projecten (cloud) | Sync privéprojecten (cloud) |
 |---|---|---|---|---|
 | Gratis | $0 | Onbeperkt | ✓ | — |
 | Pro | $2,99 / maand | Onbeperkt | ✓ | ✓ |

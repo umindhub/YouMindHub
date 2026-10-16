@@ -28,11 +28,11 @@ Die neueste Version gibt es bei **[GitHub Releases](https://github.com/umindhub/
 - **Mehrstufige Verschachtelung** — Strukturiere Arbeit über unbegrenzte Hierarchieebenen; klicke jeden Zweig mit einem Tastendruck zusammen.
 - **Spotlight-Massenbearbeitung** — Wähle mehrere Elemente aus und aktualisiere Status, Tags oder Fälligkeitsdatum in einem Schritt.
 - **Tastaturgesteuert** — Jede Aktion hat eine Tastenkombination. Erstellen, verschieben, einrücken und abschließen ohne die Tastatur zu verlassen.
-- **Lokaler Speicher** — Funktioniert offline, startet sofort, kein Netzwerk erforderlich (nur Anmeldung und Erstellen eines Projekts erfordern es).
+- **Lokaler Speicher** — Funktioniert offline, startet sofort, kein Netzwerk erforderlich (nur Anmeldung und Erstellen eines Projekts erfordern es). Unbegrenzte lokale Projekte, Dateien und Elemente.
 - **200-Schritt-Rückgängig/Wiederholen** — Auf der Festplatte gespeichert, pro Datei. Funktioniert auch nach App-Neustarts.
 - **Papierkorb mit 30-Tage-Aufbewahrung** — Vor der endgültigen Löschung wiederherstellbar.
 - **18 handgefertigte Themen** — Neun warme Helles, neun tiefe Dunkles.
-- **Cloud-Synchronisierung** — Synchronisiere deine Daten auf allen deinen Geräten. Mache überall und jederzeit dort weiter, wo du aufgehört hast.
+- **Cloud-Synchronisierung** — Synchronisiere deine Daten auf allen deinen Geräten. Mache überall und jederzeit dort weiter, wo du aufgehört hast. Kostenlos für öffentliche Projekte; private Projekte erfordern Pro.
 
 ## Anforderungen
 
@@ -41,9 +41,9 @@ Die neueste Version gibt es bei **[GitHub Releases](https://github.com/umindhub/
 
 ## Preise
 
-Projekte, Dateien und Elemente sind für alle unbegrenzt. Öffentliche Projekte werden kostenlos synchronisiert; die Synchronisierung innerhalb privater Projekte erfordert Pro.
+Lokale Projekte, Dateien und Elemente sind für alle unbegrenzt. Die Cloud-Synchronisierung öffentlicher Projekte ist kostenlos; die Cloud-Synchronisierung innerhalb privater Projekte erfordert Pro.
 
-| Plan | Preis | Projekte / Dateien / Elemente | Sync öffentlicher Projekte | Sync privater Projekte |
+| Plan | Preis | Projekte / Dateien / Elemente (lokal) | Sync öffentlicher Projekte (Cloud) | Sync privater Projekte (Cloud) |
 |---|---|---|---|---|
 | Kostenlos | $0 | Unbegrenzt | ✓ | — |
 | Pro | $2,99 / Monat | Unbegrenzt | ✓ | ✓ |

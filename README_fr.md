@@ -28,11 +28,11 @@ Obtenez la dernière version sur **[GitHub Releases](https://github.com/umindhub
 - **Imbrication multi-niveaux** — Structurez le travail sur des niveaux hiérarchiques illimités ; réduisez n'importe quelle branche d'une seule touche.
 - **Édition en masse avec Spotlight** — Sélectionnez plusieurs éléments et mettez à jour le statut, les étiquettes ou la date d'échéance en une seule fois.
 - **Piloté par le clavier** — Chaque action a un raccourci. Créez, déplacez, indentez et terminez sans quitter le clavier.
-- **Stockage local** — Fonctionne hors ligne, se lance instantanément, aucun réseau requis (seuls la connexion et la création d'un Project le nécessitent).
+- **Stockage local** — Fonctionne hors ligne, se lance instantanément, aucun réseau requis (seuls la connexion et la création d'un Project le nécessitent). Projets, fichiers et éléments locaux illimités.
 - **Annuler/Rétablir en 200 étapes** — Persisté sur le disque, par fichier. Fonctionne entre les redémarrages de l'application.
 - **Corbeille avec rétention de 30 jours** — Récupérables avant suppression définitive.
 - **18 thèmes artisanaux** — Neuf lumières chaudes, neuf sombres profonds.
-- **Synchronisation cloud** — Synchronisez vos données sur tous vos appareils. Reprenez là où vous vous étiez arrêté, où que vous soyez, quand vous le souhaitez.
+- **Synchronisation cloud** — Synchronisez vos données sur tous vos appareils. Reprenez là où vous vous étiez arrêté, où que vous soyez, quand vous le souhaitez. Gratuite pour les projets publics ; les projets privés nécessitent Pro.
 
 ## Configuration requise
 
@@ -41,9 +41,9 @@ Obtenez la dernière version sur **[GitHub Releases](https://github.com/umindhub
 
 ## Tarifs
 
-Projets, fichiers et éléments sont illimités pour tous. Les projets publics se synchronisent gratuitement ; la synchronisation au sein des projets privés nécessite Pro.
+Les projets, fichiers et éléments locaux sont illimités pour tous. La synchronisation cloud est gratuite pour les projets publics ; la synchronisation cloud au sein des projets privés nécessite Pro.
 
-| Plan | Prix | Projets / Fichiers / Éléments | Synchro des projets publics | Synchro des projets privés |
+| Plan | Prix | Projets / Fichiers / Éléments (local) | Synchro des projets publics (cloud) | Synchro des projets privés (cloud) |
 |---|---|---|---|---|
 | Gratuit | $0 | Illimité | ✓ | — |
 | Pro | $2,99 / mois | Illimité | ✓ | ✓ |

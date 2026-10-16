@@ -28,11 +28,11 @@ Ottieni l'ultima versione da **[GitHub Releases](https://github.com/umindhub/Min
 - **Nidificazione multilivello** — Struttura il lavoro su livelli gerarchici illimitati; comprimi qualsiasi ramo con un solo tasto.
 - **Modifica in blocco con Spotlight** — Seleziona più elementi e aggiorna stato, tag o data di scadenza in un colpo solo.
 - **Guidato dalla tastiera** — Ogni azione ha una scorciatoia. Crea, sposta, indenta e completa senza lasciare la tastiera.
-- **Archiviazione locale** — Funziona offline, si avvia istantaneamente, senza dipendenza dalla rete (solo l'accesso e la creazione di un Project la richiedono).
+- **Archiviazione locale** — Funziona offline, si avvia istantaneamente, senza dipendenza dalla rete (solo l'accesso e la creazione di un Project la richiedono). Progetti, file ed elementi locali illimitati.
 - **Annulla/Ripeti a 200 passi** — Persistito su disco, per file. Funziona tra i riavvii dell'app.
 - **Cestino con conservazione di 30 giorni** — Recuperabili prima dell'eliminazione definitiva.
 - **18 temi artigianali** — Nove luci calde, nove scuri profondi.
-- **Sincronizzazione cloud** — Sincronizza i tuoi dati su tutti i tuoi dispositivi. Riprendi da dove ti eri fermato, ovunque e in qualsiasi momento.
+- **Sincronizzazione cloud** — Sincronizza i tuoi dati su tutti i tuoi dispositivi. Riprendi da dove ti eri fermato, ovunque e in qualsiasi momento. Gratuita per i progetti pubblici; i progetti privati richiedono Pro.
 
 ## Requisiti
 
@@ -41,9 +41,9 @@ Ottieni l'ultima versione da **[GitHub Releases](https://github.com/umindhub/Min
 
 ## Prezzi
 
-Progetti, file ed elementi sono illimitati per tutti. I progetti pubblici si sincronizzano gratis; la sincronizzazione all'interno dei progetti privati richiede Pro.
+Progetti, file ed elementi locali sono illimitati per tutti. La sincronizzazione cloud è gratuita per i progetti pubblici; la sincronizzazione cloud all'interno dei progetti privati richiede Pro.
 
-| Piano | Prezzo | Progetti / File / Elementi | Sincronizzazione progetti pubblici | Sincronizzazione progetti privati |
+| Piano | Prezzo | Progetti / File / Elementi (locale) | Sincronizzazione progetti pubblici (cloud) | Sincronizzazione progetti privati (cloud) |
 |---|---|---|---|---|
 | Gratuito | $0 | Illimitati | ✓ | — |
 | Pro | $2,99 / mese | Illimitati | ✓ | ✓ |

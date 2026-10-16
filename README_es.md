@@ -28,11 +28,11 @@ Obtén la última versión en **[GitHub Releases](https://github.com/umindhub/Mi
 - **Anidamiento multinivel** — Estructura el trabajo en niveles jerárquicos ilimitados; contrae cualquier rama con una sola tecla.
 - **Edición masiva con Spotlight** — Selecciona varios elementos y actualiza el estado, las etiquetas o la fecha de vencimiento de una sola vez.
 - **Basado en teclado** — Cada acción tiene un atajo. Crea, mueve, aplica sangría y completa sin dejar el teclado.
-- **Almacenamiento local** — Funciona sin conexión, se inicia al instante, sin dependencia de red (solo el inicio de sesión y la creación de un Project lo requieren).
+- **Almacenamiento local** — Funciona sin conexión, se inicia al instante, sin dependencia de red (solo el inicio de sesión y la creación de un Project lo requieren). Proyectos, archivos y elementos locales ilimitados.
 - **Deshacer/Rehacer de 200 pasos** — Persistido en disco, por archivo. Funciona entre reinicios de la app.
 - **Papelera con retención de 30 días** — Recuperables antes de la eliminación definitiva.
 - **18 temas artesanales** — Nueve luces cálidas, nueve oscuros profundos.
-- **Sincronización en la nube** — Sincroniza tus datos en todos tus dispositivos. Retoma donde lo dejaste, en cualquier lugar y en cualquier momento.
+- **Sincronización en la nube** — Sincroniza tus datos en todos tus dispositivos. Retoma donde lo dejaste, en cualquier lugar y en cualquier momento. Gratis para proyectos públicos; los proyectos privados requieren Pro.
 
 ## Requisitos
 
@@ -41,9 +41,9 @@ Obtén la última versión en **[GitHub Releases](https://github.com/umindhub/Mi
 
 ## Precios
 
-Proyectos, archivos y elementos son ilimitados para todos. Los proyectos públicos se sincronizan gratis; la sincronización dentro de proyectos privados requiere Pro.
+Los proyectos, archivos y elementos locales son ilimitados para todos. La sincronización en la nube es gratuita para proyectos públicos; la sincronización en la nube dentro de proyectos privados requiere Pro.
 
-| Plan | Precio | Proyectos / Archivos / Elementos | Sincronización de proyectos públicos | Sincronización de proyectos privados |
+| Plan | Precio | Proyectos / Archivos / Elementos (local) | Sincronización de proyectos públicos (nube) | Sincronización de proyectos privados (nube) |
 |---|---|---|---|---|
 | Gratis | $0 | Ilimitados | ✓ | — |
 | Pro | $2.99 / mes | Ilimitados | ✓ | ✓ |
