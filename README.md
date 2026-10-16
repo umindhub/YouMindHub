@@ -41,11 +41,13 @@ Get the latest release from **[GitHub Releases](https://github.com/umindhub/Mind
 
 ## Pricing
 
-| Plan | Price | Projects | Files | Items/File |
-|------|-------|----------|-------|------------|
-| Free | $0 | 1 | 20 | 100 |
-| Pro | $2.99 / month | Unlimited | Unlimited | Unlimited |
-| Education & Open Source | Free (verify) | Unlimited | Unlimited | Unlimited |
+Projects, files and items are unlimited for everyone. Public projects sync for free; syncing inside private projects requires Pro.
+
+| Plan | Price | Projects / Files / Items | Public project sync | Private project sync |
+|---|---|---|---|---|
+| Free | $0 | Unlimited | ✓ | — |
+| Pro | $2.99 / month | Unlimited | ✓ | ✓ |
+| Education & Open Source | Free (verify) | Unlimited | ✓ | ✓ |
 
 Students, teachers, and open-source contributors can apply for a free CSE license at [youmindhub.com/cseplan](https://youmindhub.com/cseplan).
 

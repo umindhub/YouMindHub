@@ -41,11 +41,13 @@ Obtenez la dernière version sur **[GitHub Releases](https://github.com/umindhub
 
 ## Tarifs
 
-| Plan | Prix | Projets | Fichiers | Éléments/Fichier |
-|------|------|---------|---------|-----------------|
-| Gratuit | $0 | 1 | 20 | 100 |
-| Pro | $2,99 / mois | Illimité | Illimité | Illimité |
-| Éducation & Open Source | Gratuit (vérification requise) | Illimité | Illimité | Illimité |
+Projets, fichiers et éléments sont illimités pour tous. Les projets publics se synchronisent gratuitement ; la synchronisation au sein des projets privés nécessite Pro.
+
+| Plan | Prix | Projets / Fichiers / Éléments | Synchro des projets publics | Synchro des projets privés |
+|---|---|---|---|---|
+| Gratuit | $0 | Illimité | ✓ | — |
+| Pro | $2,99 / mois | Illimité | ✓ | ✓ |
+| Éducation & Open Source | Gratuit (vérification requise) | Illimité | ✓ | ✓ |
 
 Les étudiants, enseignants et contributeurs open source peuvent demander une licence CSE gratuite sur [youmindhub.com/cseplan](https://youmindhub.com/cseplan).
 

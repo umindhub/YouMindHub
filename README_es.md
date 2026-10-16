@@ -41,11 +41,13 @@ Obtén la última versión en **[GitHub Releases](https://github.com/umindhub/Mi
 
 ## Precios
 
-| Plan | Precio | Proyectos | Archivos | Elementos/Archivo |
-|------|--------|-----------|----------|-------------------|
-| Gratis | $0 | 1 | 20 | 100 |
-| Pro | $2.99 / mes | Ilimitados | Ilimitados | Ilimitados |
-| Educación y Open Source | Gratis (verificación requerida) | Ilimitados | Ilimitados | Ilimitados |
+Proyectos, archivos y elementos son ilimitados para todos. Los proyectos públicos se sincronizan gratis; la sincronización dentro de proyectos privados requiere Pro.
+
+| Plan | Precio | Proyectos / Archivos / Elementos | Sincronización de proyectos públicos | Sincronización de proyectos privados |
+|---|---|---|---|---|
+| Gratis | $0 | Ilimitados | ✓ | — |
+| Pro | $2.99 / mes | Ilimitados | ✓ | ✓ |
+| Educación y Open Source | Gratis (verificación requerida) | Ilimitados | ✓ | ✓ |
 
 Estudiantes, profesores y colaboradores de código abierto pueden solicitar una licencia CSE gratuita en [youmindhub.com/cseplan](https://youmindhub.com/cseplan).
 

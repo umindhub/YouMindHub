@@ -41,11 +41,13 @@ Die neueste Version gibt es bei **[GitHub Releases](https://github.com/umindhub/
 
 ## Preise
 
-| Plan | Preis | Projekte | Dateien | Elemente/Datei |
-|------|-------|----------|---------|----------------|
-| Kostenlos | $0 | 1 | 20 | 100 |
-| Pro | $2,99 / Monat | Unbegrenzt | Unbegrenzt | Unbegrenzt |
-| Bildung & Open Source | Kostenlos (nach Verifizierung) | Unbegrenzt | Unbegrenzt | Unbegrenzt |
+Projekte, Dateien und Elemente sind für alle unbegrenzt. Öffentliche Projekte werden kostenlos synchronisiert; die Synchronisierung innerhalb privater Projekte erfordert Pro.
+
+| Plan | Preis | Projekte / Dateien / Elemente | Sync öffentlicher Projekte | Sync privater Projekte |
+|---|---|---|---|---|
+| Kostenlos | $0 | Unbegrenzt | ✓ | — |
+| Pro | $2,99 / Monat | Unbegrenzt | ✓ | ✓ |
+| Bildung & Open Source | Kostenlos (nach Verifizierung) | Unbegrenzt | ✓ | ✓ |
 
 Schüler, Lehrer und Open-Source-Mitwirkende können eine kostenlose CSE-Lizenz unter [youmindhub.com/cseplan](https://youmindhub.com/cseplan) beantragen.
 

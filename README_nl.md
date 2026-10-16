@@ -41,11 +41,13 @@ Download de nieuwste versie van **[GitHub Releases](https://github.com/umindhub/
 
 ## Prijzen
 
-| Plan | Prijs | Projecten | Bestanden | Items/Bestand |
-|------|-------|-----------|----------|---------------|
-| Gratis | $0 | 1 | 20 | 100 |
-| Pro | $2,99 / maand | Onbeperkt | Onbeperkt | Onbeperkt |
-| Onderwijs & Open Source | Gratis (na verificatie) | Onbeperkt | Onbeperkt | Onbeperkt |
+Projecten, bestanden en items zijn voor iedereen onbeperkt. Openbare projecten synchroniseren gratis; synchronisatie binnen privéprojecten vereist Pro.
+
+| Plan | Prijs | Projecten / Bestanden / Items | Sync openbare projecten | Sync privéprojecten |
+|---|---|---|---|---|
+| Gratis | $0 | Onbeperkt | ✓ | — |
+| Pro | $2,99 / maand | Onbeperkt | ✓ | ✓ |
+| Onderwijs & Open Source | Gratis (na verificatie) | Onbeperkt | ✓ | ✓ |
 
 Studenten, leraren en open-source bijdragers kunnen een gratis CSE-licentie aanvragen op [youmindhub.com/cseplan](https://youmindhub.com/cseplan).
 
